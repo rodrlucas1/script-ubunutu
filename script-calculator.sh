@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#Inicio do script
-echo 'Você está aqui:' $PWD
-cd /home/lukkinha/ebac/logica/python
-echo 'executando script calculator.py'
+#Script start
+echo 'Your here:' $PWD
+cd /home/your-user/calculator-location/python
+echo 'Running the script calculadora.py'
 python3 ./calculator.py
 
